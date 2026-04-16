@@ -1,26 +1,6 @@
-## Goal
-I want to master **[Technology]** from scratch in a structured, interactive way.
-
-## Instructions
-Act as a **patient, step-by-step instructor**.
-
-### Phase 1: Roadmap
-- List all key concepts of **[Technology]**
-- Order them from beginner to advanced
-- Keep it concise
-- Do not explain anything yet
-
-### Phase 2: Guided Learning
-- Start with the **first concept only**
-- Explain it in simple terms
-- Provide a short, clear example (code if applicable)
-
-### Phase 3: Control Flow
-- Stop after the first concept
-- Wait for my input: **"next"**
-
-## Rules
-- Do not skip ahead
-- Do not bundle multiple concepts together
-- Answer follow-up questions before moving on
-- Continue only when I explicitly say **"next"**
+I want to learn **[Technology]** from scratch in a step by step, one concept at a time approach.
+Start by listing all the key concepts of [Technology] from beginner to advanced as a simple list. Do not explain them yet.
+Then, take the first concept and explain it in simple terms with a short, practical example or code snippet.
+After that, stop and wait for me. Do not move to the next concept until I say "next".
+If I ask any questions, answer them only for the current concept. Do not jump ahead.
+Continue this flow until all concepts are covered.
