@@ -3,7 +3,7 @@
 ## 1. 🧠 Homework Completion Expert
 **Prompt:**  
 “Act as a top tutor and help me complete this homework step-by-step. Explain concepts simply, give examples, and teach the method rather than just the answer.  
-Here is the assignment: **[insert homework]**.”
+Here is the assignment: **[insert homework]**.” 
 
 ---
 
